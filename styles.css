@@ -4,7 +4,11 @@ body {
     background-color: rgb(255, 255, 255);
     margin: 0;
     text-align: center;
+}
 
+#link-container {
+    display: flex;
+}
 #content {
     position: relative;
     background-color: rgb(255, 255, 255);
