@@ -33,7 +33,7 @@ body {
 #hero-image {
     width: 80%;
     height: 80%;
-    object-fit: cover;
+    object-fit: none;
 }
 
 #footer-container {
