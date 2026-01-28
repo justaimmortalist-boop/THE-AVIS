@@ -48,6 +48,11 @@ body {
     height: 50px;
 }
 
+#link-container{
+    display: flex;
+    justify-content: center;
+}
+
 .Link {
     background-color: rgb(147, 23, 23);
     height: 100px;
