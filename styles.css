@@ -52,7 +52,7 @@ body {
     background-color: rgb(147, 23, 23);
     height: 100px;
     width: 100px;
-    color: white;
+    color: rgb(179, 117, 255);
     border: 2px solid black;
     border-radius: 50px;
 }
